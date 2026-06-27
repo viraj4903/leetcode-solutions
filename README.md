@@ -7,6 +7,7 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/viraj4903/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/viraj4903/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -21,4 +22,12 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/viraj4903/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
