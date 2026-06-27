@@ -4,10 +4,11 @@ class Solution {
         int count=0;
 
         for(int i=0;i<nums.length;i++){
+            int n = nums[i];
             int digit=0;
             
-            while(nums[i]>0){
-                nums[i]/=10;
+            while(n>0){
+                n/=10;
                 digit++;
             }
 
