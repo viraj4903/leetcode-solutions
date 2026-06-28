@@ -14,6 +14,7 @@ LeetCode solutions and problem-solving practice in Java
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/viraj4903/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +50,7 @@ LeetCode solutions and problem-solving practice in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
