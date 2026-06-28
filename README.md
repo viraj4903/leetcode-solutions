@@ -31,6 +31,7 @@ LeetCode solutions and problem-solving practice in Java
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/viraj4903/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
