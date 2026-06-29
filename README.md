@@ -7,6 +7,7 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/viraj4903/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/viraj4903/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -39,6 +40,7 @@ LeetCode solutions and problem-solving practice in Java
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -61,4 +63,8 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
