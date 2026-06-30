@@ -15,6 +15,7 @@ LeetCode solutions and problem-solving practice in Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/viraj4903/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -67,4 +68,8 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/viraj4903/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
