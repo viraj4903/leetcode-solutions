@@ -20,6 +20,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0074-search-a-2d-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/viraj4903/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -60,6 +61,7 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +74,13 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viraj4903/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
