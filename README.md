@@ -18,6 +18,7 @@ LeetCode solutions and problem-solving practice in Java
 | ------- |
 | [0001-two-sum](https://github.com/viraj4903/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/viraj4903/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ LeetCode solutions and problem-solving practice in Java
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/viraj4903/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
