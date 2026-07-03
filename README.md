@@ -24,6 +24,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/viraj4903/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1089-duplicate-zeros](https://github.com/viraj4903/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj4903/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/viraj4903/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -68,6 +69,7 @@ LeetCode solutions and problem-solving practice in Java
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/viraj4903/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
