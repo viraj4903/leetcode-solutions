@@ -24,6 +24,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/viraj4903/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/viraj4903/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj4903/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +47,7 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/viraj4903/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
@@ -57,6 +59,7 @@ LeetCode solutions and problem-solving practice in Java
 | ------- |
 | [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/viraj4903/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -64,6 +67,7 @@ LeetCode solutions and problem-solving practice in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viraj4903/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
@@ -75,6 +79,7 @@ LeetCode solutions and problem-solving practice in Java
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/viraj4903/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
