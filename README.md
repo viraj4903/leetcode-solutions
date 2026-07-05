@@ -33,6 +33,7 @@ LeetCode solutions and problem-solving practice in Java
 | [1480-running-sum-of-1d-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/viraj4903/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/viraj4903/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/viraj4903/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/viraj4903/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -40,6 +41,7 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/viraj4903/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
