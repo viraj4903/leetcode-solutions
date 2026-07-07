@@ -38,6 +38,7 @@ LeetCode solutions and problem-solving practice in Java
 | [1732-find-the-highest-altitude](https://github.com/viraj4903/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj4903/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/viraj4903/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -56,6 +57,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0058-length-of-last-word](https://github.com/viraj4903/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/viraj4903/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj4903/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@ LeetCode solutions and problem-solving practice in Java
 | [1389-create-target-array-in-the-given-order](https://github.com/viraj4903/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj4903/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/viraj4903/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
