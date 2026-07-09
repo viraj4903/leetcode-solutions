@@ -36,6 +36,7 @@ LeetCode solutions and problem-solving practice in Java
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/viraj4903/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/viraj4903/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/viraj4903/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/viraj4903/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj4903/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -57,6 +58,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0058-length-of-last-word](https://github.com/viraj4903/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/viraj4903/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1773-count-items-matching-a-rule](https://github.com/viraj4903/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/viraj4903/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj4903/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
