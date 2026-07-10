@@ -9,6 +9,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0009-palindrome-number](https://github.com/viraj4903/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/viraj4903/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viraj4903/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -26,6 +27,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0485-max-consecutive-ones](https://github.com/viraj4903/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/viraj4903/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj4903/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/viraj4903/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -67,6 +69,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/viraj4903/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1929-concatenation-of-array) |
