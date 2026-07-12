@@ -26,6 +26,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/viraj4903/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/viraj4903/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@ LeetCode solutions and problem-solving practice in Java
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/viraj4903/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/viraj4903/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## String
@@ -71,6 +73,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0258-add-digits](https://github.com/viraj4903/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/viraj4903/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
