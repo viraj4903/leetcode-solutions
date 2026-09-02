@@ -16,6 +16,7 @@ LeetCode solutions and problem-solving practice in Java
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/viraj4903/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viraj4903/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/viraj4903/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/viraj4903/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ LeetCode solutions and problem-solving practice in Java
 | [1920-build-array-from-permutation](https://github.com/viraj4903/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/viraj4903/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj4903/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/viraj4903/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/viraj4903/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
