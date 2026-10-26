@@ -78,6 +78,7 @@ LeetCode solutions and problem-solving practice in Java
 | ------- |
 | [0058-length-of-last-word](https://github.com/viraj4903/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/viraj4903/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1143-longest-common-subsequence](https://github.com/viraj4903/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/viraj4903/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/viraj4903/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/viraj4903/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -126,6 +127,7 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1143-longest-common-subsequence](https://github.com/viraj4903/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Number Theory
 |  |
 | ------- |
@@ -156,4 +158,8 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/viraj4903/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/viraj4903/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
