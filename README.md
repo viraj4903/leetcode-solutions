@@ -47,6 +47,7 @@ LeetCode solutions and problem-solving practice in Java
 | [1572-matrix-diagonal-sum](https://github.com/viraj4903/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/viraj4903/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/viraj4903/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1710-maximum-units-on-a-truck](https://github.com/viraj4903/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/viraj4903/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/viraj4903/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/viraj4903/leetcode-solutions/tree/master/1854-maximum-population-year) |
@@ -120,6 +121,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj4903/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/viraj4903/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,4 +152,8 @@ LeetCode solutions and problem-solving practice in Java
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj4903/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/viraj4903/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
