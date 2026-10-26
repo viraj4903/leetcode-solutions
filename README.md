@@ -29,6 +29,7 @@ LeetCode solutions and problem-solving practice in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj4903/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/viraj4903/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/viraj4903/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/viraj4903/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/viraj4903/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -121,12 +122,14 @@ LeetCode solutions and problem-solving practice in Java
 | ------- |
 | [0088-merge-sorted-array](https://github.com/viraj4903/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/viraj4903/leetcode-solutions/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/viraj4903/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj4903/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/viraj4903/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viraj4903/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/viraj4903/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/viraj4903/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Number Theory
 |  |
@@ -157,6 +160,7 @@ LeetCode solutions and problem-solving practice in Java
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/viraj4903/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/viraj4903/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Longest Common Subsequence
 |  |
